@@ -190,3 +190,21 @@ D:\last test\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
 D:\last test\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
 D:\last test\billiard\Bida\obj\Debug\Bida.exe
 D:\last test\billiard\Bida\obj\Debug\Bida.pdb
+D:\Phần mềm Quản lí Bida\billiard\bin\Bida.exe.config
+D:\Phần mềm Quản lí Bida\billiard\bin\Bida.exe
+D:\Phần mềm Quản lí Bida\billiard\bin\Bida.pdb
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmBan.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmMain.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.exe
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.pdb
